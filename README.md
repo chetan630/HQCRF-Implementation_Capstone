@@ -56,11 +56,6 @@ HQCRF-Implementation
 ├── paper/
 │   └── HQCRF_Research_Paper.pdf
 │
-├── figures/
-│   ├── architecture.png
-│   ├── pdr_results.png
-│   └── ...
-│
 ├── requirements.txt
 ├── LICENSE
 └── README.md
